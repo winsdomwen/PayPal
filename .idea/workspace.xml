@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b09fca96-056d-4cb1-abe9-686376550417" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/payment/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b09fca96-056d-4cb1-abe9-686376550417" name="默认的" comment="添加index文件">
+      <change afterPath="$PROJECT_DIR$/payment/index2.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="develop01" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,8 +72,16 @@
       <workItem from="1574666267013" duration="194000" />
       <workItem from="1574666992870" duration="980000" />
       <workItem from="1574853217454" duration="967000" />
-      <workItem from="1574854565383" duration="305000" />
+      <workItem from="1574854565383" duration="524000" />
     </task>
+    <task id="LOCAL-00001" summary="添加index文件">
+      <created>1574854994179</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574854994179</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,5 +127,9 @@
         <option value="1" />
       </set>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加index文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加index文件" />
   </component>
 </project>
